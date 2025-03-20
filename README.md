@@ -28,10 +28,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<img src="https://raw.githubusercontent.com/Abir462/Abir462/output/snake.svg" alt="Snake animation" />
 
-###
-
-<img src="https://raw.githubusercontent.com/Abir462/Abir462/output/snake.svg" alt="Snake animation" />
-
-###
